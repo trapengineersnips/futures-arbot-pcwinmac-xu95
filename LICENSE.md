@@ -1,4 +1,4 @@
-# 
+# متقدم futures arbitrage bot سكريبتات لـ Mac OS | مفتوح المصدر futures arbitrage bot سكريبتات لـ PC Windows. مع مجموعات السيولة DEX و تحليل دفتر الأوامر — مُحسَّن لأقصى أداء على جميع المنصات.
 
 
 
